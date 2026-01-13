@@ -6,15 +6,24 @@
 
 body {
     width: 512px;
+     background-color: rgba(42, 2, 160, 0.975);
+}
+
+img {
+    width: 512px;
 }
 
 main {
-    background-color: rgba(42, 2, 160, 0.975);
+    
 } 
+
+#pieno {
+   
+}
 
 #primo {
     color: white;
-
+    font-family: "Sigmar", sans-serif;
 }
 
 #secondo {
