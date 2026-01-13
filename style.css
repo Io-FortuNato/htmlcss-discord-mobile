@@ -26,6 +26,8 @@ main {
     font-family: "Sigmar", sans-serif;
     text-align: center;
     margin-top: 5rem;
+    margin-left: 1px;
+    margin-right: 2px;
 }
 
 #secondo {
@@ -56,8 +58,29 @@ padding-top: 6px;
    border-radius: 6px;
    padding-top: 6px;
    color: white;
+}
 
+#contorno {
+    border: solid rgb(64, 43, 226);
+    margin-top: 44px;
+    width: 360px;
+    background-color: rgb(64, 43, 226);
+    text-align: center;
+    margin-left: 70px;
+    color: white;
+    border-radius: 12px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 32px;
+    video {
+        width: 300px;
+        border-radius: 12px;
+        margin-bottom: 32px;
+        margin-top: 12px;
+    }
+}
 
+#titolo2 {
 
 }
 
