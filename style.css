@@ -24,8 +24,44 @@ main {
 #primo {
     color: white;
     font-family: "Sigmar", sans-serif;
+    text-align: center;
+    margin-top: 5rem;
 }
 
 #secondo {
     color: white;
+    text-align: center;
 }
+
+#button1 {
+    text-align: center;
+    border: solid white;
+    border-radius: 6px;
+    width: 240px;
+    height: 36px;
+    margin-left: 116px;
+    margin-top: 24px;
+background-color: white;
+padding-top: 6px;
+}
+
+#button2 {
+    text-align: center;
+     width: 240px;
+    height: 36px;
+    margin-left: 116px;
+    margin-top: 24px;
+   background-color: rgb(64, 43, 226);
+   border: solid rgb(64, 43, 226);
+   border-radius: 6px;
+   padding-top: 6px;
+   color: white;
+
+
+
+}
+
+
+
+
+
